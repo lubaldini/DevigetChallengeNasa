@@ -1,0 +1,22 @@
+{
+  "name": "deviget_challenge_nasa",
+  "version": "1.0.0",
+  "description": "QA Challenge for Deviget",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lubaldini/DevigetChallengeNasa.git"
+  },
+  "author": "Lucas Ubaldini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lubaldini/DevigetChallengeNasa/issues"
+  },
+  "homepage": "https://github.com/lubaldini/DevigetChallengeNasa#readme",
+  "dependencies": {
+    "cypress": "^6.1.0"
+  }
+}
